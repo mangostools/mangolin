@@ -1,0 +1,12 @@
+Package: mangolin
+Version: 2.07
+Source: mangolin
+Maintainer: Alistair Neil <info@dazzleships.net>
+Section: utils
+Homepage: https://www.dazzleships.net
+Priority: optional
+Architecture: all
+Installed-Size: 3264
+Depends: openjdk-7-jre
+Description: Java based administration client for MaNGOS.
+ MaNGOLin is a GUI to facilitate easier maintenance of MaNGOS servers.

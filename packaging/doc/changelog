@@ -1,0 +1,26 @@
+mangolin (2.07) stable; urgency=low
+
+   * Fixed Portal manager failing after creating one portal
+     - Fixed Character Send Mail not being disabled prior to login
+ 
+ -- Alistair Neil <info@dazzleships.net>  Sat, 12 Mar 2016 01:14:00 -0400
+
+mangolin (2.06) stable; urgency=low
+
+   * Fixed RA login issue.
+     - Fixed hanging issue.
+ 
+ -- Alistair Neil <info@dazzleships.net>  Fri, 11 Mar 2016 18:49:00 -0400
+
+mangolin (2.05) stable; urgency=low
+
+   * Updated build system and installers to work with modern linux systems.
+     - Implemented Debian package management.
+     - Fixed desktop links & icons not appearing in the menu on linux.
+     - Added fixes to get it to run on Windows 10.
+     - Fixed outstanding issue with theme preferences selection prompting a 
+       restart on a fresh install even though theme had not been changed.
+
+ -- Alistair Neil <info@dazzleships.net>  Sun, 28 Feb 2016 15:41:00 -0400
+
+

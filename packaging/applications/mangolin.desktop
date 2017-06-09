@@ -1,0 +1,10 @@
+[Desktop Entry]
+Version=1.0
+Categories=Utility;Application;
+Name=MaNGOLin
+Comment=MaNGOS Administration client.
+Exec=/usr/bin/mangolin
+Icon=/usr/share/icons/mangolin.png
+Terminal=false
+Type=Application
+Keywords=mangos;admin;wow;
